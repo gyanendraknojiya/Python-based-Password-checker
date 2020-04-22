@@ -1,3 +1,0 @@
-It needs-
-- Python 3
-- Requests Library (pip install requests)
